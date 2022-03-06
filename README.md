@@ -47,15 +47,14 @@ Link para acessar as questões:
 Obs.: Pode ser utilizada a opção de colar o código na página: [Compiler e Interpreter JAVA - REPLIT](https://replit.com/languages/java10), porém a execução não funciona se houver comandos que utilizem a interface gráfica do usuário (GUI)
 
 2) Clonar o repositório do GitHub
-- acessar o repositório refente ao [desafio](https://github.com/fabiunik/desafio-capgemini-2022)
-- clonar o repositório através da opção CODE (aparece destacada na página)
-- deverão ser seguidas as orientações para que seja feito download repositório 
-- O equipamento onde serão executados os projetos JAVA devem ter instalados: 
-    - IDE (softwares que executam arquivos gerados em JAVA como por exemplo VSCode, IntelliJ, Eclipse, BlueJ, etc )
-    - deve ser instalada a JDK (software do ambiente JAVA, dê preferência para versão atual)
-    - podem ser necessárias instalar extensões para executar o programa (vai depender da IDE escolhida)
+- Acessar o repositório refente ao [desafio](https://github.com/fabiunik/desafio-capgemini-2022)
+- Clonar o repositório através da opção "CODE" (aparece destacada na página) e seguir as orientações para que seja feito download 
+- No equipamento onde serão executados os projetos JAVA devem estar instalados: 
+    - IDE (softwares que executam arquivos gerados em JAVA como por exemplo: VSCode, IntelliJ, Eclipse, BlueJ, etc.)
+    - deve ser instalada a JDK (software do ambiente JAVA. dar preferência para versão atual)
+    - pode ser necessário instalar extensões para executar o programa (depende da IDE escolhida)
 - Com o equipamento devidamente configurado:
     - na IDE escolhida, abra a pasta onde foi salvo o repositório
-    - abra e execute os arquivos com extensão .java (no VSCode uma opção para executar é acessar no menu Terminal a opção executar sem depuração)
-    - siga as instruções de entrada e observe o resultados em tela (aparecem na aba terminal)
+    - abra e execute os arquivos com extensão ".java" (exemplo: no VSCode a opção para executar é acessar no menu Terminal a opção executar sem depuração)
+    - siga as instruções de entrada e observe o resultados em tela (serão mostrados na aba terminal ou console de depuração)
 
