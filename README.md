@@ -17,11 +17,14 @@ VSCode
 
 ### Orientações Gerais
 As questões nesse repositório referem-se ao Desafio de Programação 02 - Academia Capgemini
+
 Questão 1 - Cálculo da Mediana em uma lista de números com tamanho ímpar
+
 Questão 2 - Encontrar em lista a quantidade de elementos que possuem entre si uma diferença determinada (x)
+
 Questão 3 - Realizar a encriptação de um texto
 
-O enunciado e orientações estão no arquivo desafio.docx
+O enunciado das questões com as orientações para desenvolvimento da solução estão no arquivo desafio.docx
 
 ## Orientações para executar os códigos
 Existem várias possibilidades de executar os arquivos, mas aqui serão listas duas:
@@ -33,7 +36,8 @@ Existem várias possibilidades de executar os arquivos, mas aqui serão listas d
 -  Quando o arquivo estiver pronto para ser executado as orientações aparecerão na tela (clicar com o mouse onde aparecer o cursor na tela do compilador);
 - Após inserir todas as informações solicitadas, o resultado será apresentado na tela (nas questões 1 e 2 são solicitadas pelo menos duas entradas de dados).
 
-link das questões
+Link para acessar as questões:
+
 Questão 1 - https://replit.com/@fabiunik/capgemini-question1#Mediana.java
 
 Questão 2 - https://replit.com/@fabiunik/capgemini-question2#ParesDeInteiros.java
