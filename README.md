@@ -38,16 +38,16 @@ Existem várias possibilidades de executar os arquivos, mas aqui serão listas d
 
 Link para acessar as questões:
 
-Questão 1 - https://replit.com/@fabiunik/capgemini-question1#Mediana.java
+[Questão 1 - Cálculo da Mediana](https://replit.com/@fabiunik/capgemini-question1#Mediana.java)
 
-Questão 2 - https://replit.com/@fabiunik/capgemini-question2#ParesDeInteiros.java
+[Questão 2 - Pares com Diferença x](https://replit.com/@fabiunik/capgemini-question2#ParesDeInteiros.java)
 
-Questão 3 - https://replit.com/@fabiunik/capgemini-question3#TextoEncriptado.java
+[Questão 3 - Texto Encriptado](https://replit.com/@fabiunik/capgemini-question3#TextoEncriptado.java)
 
-Obs.: Pode ser utilizada a opção de colar o código na página:  https://replit.com/languages/java10, porém a execução não funciona se houver comandos que utilizem a interface gráfica do usuário (GUI)
+Obs.: Pode ser utilizada a opção de colar o código na página: [Compiler e Interpreter JAVA - REPLIT](https://replit.com/languages/java10), porém a execução não funciona se houver comandos que utilizem a interface gráfica do usuário (GUI)
 
 2) Clonar o repositório do GitHub
-- acessar o repositório https://github.com/fabiunik/desafio-capgemini-2022
+- acessar o repositório refente ao [desafio](https://github.com/fabiunik/desafio-capgemini-2022)
 - clonar o repositório através da opção CODE (aparece destacada na página)
 - deverão ser seguidas as orientações para que seja feito download repositório 
 - O equipamento onde serão executados os projetos JAVA devem ter instalados: 
